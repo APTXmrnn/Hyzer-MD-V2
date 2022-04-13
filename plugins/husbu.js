@@ -5,4 +5,6 @@ handler.help = ['husbu']
 handler.tags = ['anime']
 handler.command = /^(husbu)$/i
 
+handler.limit = true
+
 module.exports = handler
