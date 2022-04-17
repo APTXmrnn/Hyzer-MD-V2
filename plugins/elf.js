@@ -5,4 +5,6 @@ handler.help = ['elf']
 handler.tags = ['anime']
 handler.command = /^(elf)$/i
 
+handler.limit = true
+
 module.exports = handler
